@@ -15,7 +15,7 @@
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
-            <artifactId>lombok3</artifactId>
+            <artifactId>lombok</artifactId>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
